@@ -1,5 +1,5 @@
 
-# 📘 PDF Chat Index
+# 📘 PDF Chat bot
 
 A web-based AI application that allows users to upload PDF documents and ask natural language questions about their content — powered by **OpenAI**, **Pinecone**, and **Streamlit**.
 
